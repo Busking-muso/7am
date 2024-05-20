@@ -168,6 +168,10 @@ span.weapStreak {
 #rankedSoonTm,
 #aContainer,
 .weapKey,
+#bottomLeftClassImg,
+.verticalSeparator {
+  display: none !important;
+}
 .verticalSeparator {
   display: none !important;
 }
